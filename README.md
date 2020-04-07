@@ -1,1 +1,1 @@
-# jvm_lecture
+# java 虚拟机学习相关代码记录
