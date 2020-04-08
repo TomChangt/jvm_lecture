@@ -74,7 +74,6 @@ public class CustomClassLoader extends ClassLoader {
          * -------------------------------------
          */
 
-
     }
 
     public static void test(ClassLoader classLoader) throws Exception {
